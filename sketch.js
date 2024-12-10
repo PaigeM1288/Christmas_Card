@@ -141,7 +141,7 @@ function clickMeCalled(){
  * Closes game window
  */
 function exitClicked() {
-    window.close("https://paigem1288.github.io/Christmas_Card/");
+    window.close("index.html");
 }
 
 /**
