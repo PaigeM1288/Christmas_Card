@@ -141,7 +141,7 @@ function clickMeCalled(){
  * Closes game window
  */
 function exitClicked() {
-    window.close("index.html");
+    window.close();
 }
 
 /**
